@@ -3,7 +3,7 @@ Hello, wordl!
 <html>
   <body>
     <h1>Alexandra McGill's CV</h1>
-    <a href="XMcGill.github.io/assets/Files/CV.pdf" target="_blank">PDF.</a>
+    <a href="https://XMcGill.github.io/assets/Files/CV.pdf" target="_blank">PDF.</a>
   </body>
 </html>
 
