@@ -1,4 +1,3 @@
-hello, world!
 <html>
   <body>
     <h1>Alexandra McGill's CV</h1>
