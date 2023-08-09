@@ -5,7 +5,7 @@ My name is Alex McGill and I am a graduate student at Temple University in Phila
 <html>
   <body>
     <h1>My CV</h1>
-    <embed src="https://XMcGill.github.io/CV.pdf" width ="2000" height="2000" type="application/pdf" />
+    <embed src="https://XMcGill.github.io/CV.pdf" width ="1250" height="1500" type="application/pdf" />
   </body>
 </html>
 
