@@ -10,6 +10,10 @@ Introduction
 
 SafeGeocoder is a code-free offline geocoder with a simple but friendly user interface that allows researchers to geocode a set of patient addresses securely. It works by building a Docker container on the local machine, using PostGIS to pull street line files and store them in Docker, and using PostGIS functions in Python to geocode against the Docker container. The whole thing is wrapped in a self-contained and downloadable executable file and opens in a point-and-click graphical user interface (GUI).
 
+<img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
+
+Figure 1. Geocoder GUI
+
 Motivation
 
 Medical geography is a subfield of geography that focuses on the spatial patterns and processes of health and disease. In a cancer prevention setting, we use medical geography to identify clusters of higher-than-expected disease burden and to test associations between cancer outcomes and environmental, social, and economic factors, including access to healthcare, air and water quality, and social inequalities, and to inform interventions. All of these require the use of geocoded data. While there are many free and fast ways to geocode, all of them require you to send addreses data over a server. Because of data security concerns, the strictest health researchers won’t send patient addresses to remote servers for geocoding. The only existing methods for offline geocoding are expensive, cumbersome, or require working with code, which are all limiting factors for many researchers. So, we made this standalone desktop application to geocode addresses through a friendly GUI without ever sending them off the local machine. We included the capability to jitter coordinates before returning them as a CSV or SHP to protect patient data further. And for researchers interested in the characteristics of the patient’s residence, we added the ability to attach standard census tract-level socioeconomic and sociodemographic data, such as socioeconomic and race data.
