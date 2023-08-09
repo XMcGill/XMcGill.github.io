@@ -6,13 +6,13 @@
 
 Published: 08/09/2023
 
-Introduction
+Introduction to SafeGeocoder
 
 SafeGeocoder is a code-free offline geocoder with a simple but friendly user interface that allows researchers to geocode a set of patient addresses securely. It works by building a Docker container on the local machine, using PostGIS to pull street line files and store them in Docker, and using PostGIS functions in Python to geocode against the Docker container. The whole thing is wrapped in a self-contained and downloadable executable file and opens in a point-and-click graphical user interface (GUI).
 
 <img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
 
-Figure 1. Geocoder GUI
+Figure 1. SafeGeocoder GUI
 
 Motivation
 
@@ -35,7 +35,3 @@ Learned basic SQL
 Debugged in python
 Built a GUI using QT designer
 
-
-<img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
-
-Figure 1. Geocoder GUI
