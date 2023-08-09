@@ -10,5 +10,5 @@
   </body>
 </html>
 
-<img src="https://xmcgill.github.io/Geocoder.jpg" width="600" height="400">
+<img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
 
