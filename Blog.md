@@ -10,4 +10,5 @@
   </body>
 </html>
 
-![Geocoder](https://xmcgill.github.io/Geocoder.jpg)
+<img src="https://xmcgill.github.io/Geocoder.jpg" width="100" height="100">
+
