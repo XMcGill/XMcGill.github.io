@@ -1,16 +1,7 @@
 <html>
-    <head>
-        <style type="text/css">
-        .h1{font-size: 5px}
-        </style>
-    </head>
   <body>
-    <h1 class="h1">Blog Post: Building an Offline Geocoding App</h1>
-    <h1 style="font-size:20px;">What is HTML?</h1>
+    <h1>Blog Post: Building an Offline Geocoding App</h1>
   </body>
 </html>
 
-<img src="https://xmcgill.github.io/Geocoder.jpg" width="550" height="450">
-
-can you just type things?
-
+<img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
