@@ -12,7 +12,7 @@ Last semester I completed a course entitled GIS Application Development. We were
 
 SafeGeocoder is a code-free offline geocoder with a simple but friendly user interface that allows researchers to geocode a set of patient addresses securely. It works by building a Docker container on the local machine, using PostGIS to pull street line files and store them in Docker, and using PostGIS functions in Python to geocode against the Docker container. The whole thing is wrapped in a self-contained and downloadable executable file and opens in a point-and-click graphical user interface (GUI). The GUI can be seen below in Figure 1.
 
-My co-developer for this project has received funding for an intern to continue improving the application as she is seeking to present and publish our SafeGeocoder application this fall.
+One of my co-developers on this app has received funding for an project intern to continue improving the application as she is seeking to present and publish our SafeGeocoder application this fall.
 
 <img src="https://xmcgill.github.io/Geocoder.jpg" width="500" height="400">
 
@@ -32,5 +32,5 @@ Medical geography is a subfield of geography that focuses on the spatial pattern
 
 **What I Learned**
 
-Developing the SafeGeocoder application was very rewarding and I learned an incredible amount about app building, project management, database construction, and overcoming bugs and challenges during the development process. My main focus throughout this project was designing the graphical user interface for our application. 
+Developing the SafeGeocoder application was very rewarding and I learned an incredible amount about app building, project management, database construction, and overcoming bugs and challenges during the development process. My main focus throughout this project was designing the graphical user interface for our application. I designed the GUI in QtDesigner and then exported the resulting user interface file into a python script. I could then employ the python package PyQt5 to display the GUI once the application was launched. 
 
