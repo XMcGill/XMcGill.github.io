@@ -32,5 +32,5 @@ Medical geography is a subfield of geography that focuses on the spatial pattern
 
 **What I Learned**
 
-Developing the SafeGeocoder application was very rewarding and I learned an incredible amount about app building, project management, database construction, and overcoming bugs and challenges during the development process. My main focus throughout this project was designing the graphical user interface for our application. I designed the GUI in QtDesigner and then exported the resulting user interface file into a python script. I could then employ the python package PyQt5 to display the GUI once the application was launched. 
+Developing the SafeGeocoder application was very rewarding and I learned an incredible amount about app building, project management, database construction, and overcoming bugs and challenges during the development process. My main focus throughout this project was designing the graphical user interface for our application. I designed the GUI in QtDesigner and then exported the resulting user interface file into a python script. I could then employ the python package PyQt5 to open the GUI once the application was launched. I enjoyed building and designing the GUI and am looking forward to designing more advanced graphical user interfaces in the future!
 
